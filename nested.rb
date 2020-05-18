@@ -21,13 +21,13 @@ end
  
 
 
-=begin
+
 
     
 
    
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
-def hopper
+
 	programmer_hash = 
  		{
       :grace_hopper => {
@@ -44,8 +44,9 @@ def hopper
       }
     }
     
-#programmer_hash[:alan_kay][:known_for]
+programmer_hash[:alan_kay][:known_for]
 end
+=begin
 
 def dennis_ritchies_language
 	programmer_hash = 
