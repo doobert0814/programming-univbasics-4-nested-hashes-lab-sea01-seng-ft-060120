@@ -110,7 +110,7 @@ end
       }
     }
 
-#end
+=end
 
 def changing_alan
   # change what Alan Kay is :known_for to the value of the alans_new_info variable. 
@@ -134,6 +134,7 @@ def changing_alan
 
 end
 
+=begin
 def adding_to_dennis
   # add "Assembly" to Dennis Ritchie's languages array
   # return the entire updated hash
