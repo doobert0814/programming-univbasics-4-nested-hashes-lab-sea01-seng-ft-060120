@@ -70,7 +70,7 @@ def dennis_ritchies_language
     programmer_hash[:dennis_ritchie][:languages] = "C"
 
 end
-=begin
+
 def adding_matz
   programmer_hash = {
     :yukihiro_matsumoto => {
@@ -91,6 +91,7 @@ def adding_matz
 # }
 # return the entire updated hash
 
+=begin
 	programmer_hash = 
  		{
       :grace_hopper => {
