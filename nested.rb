@@ -28,7 +28,8 @@ end
    
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 
-	programmer_hash = 
+	def alan_kay_return
+	        programmer_hash = 
  		{
       :grace_hopper => {
         :known_for => "COBOL",
